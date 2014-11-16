@@ -1,0 +1,16 @@
+.erlang.mk.packages.v2
+/ebin
+/doc
+/_test
+/.eunit
+/docs
+.DS_Store
+/TEST-*.xml
+*.swp
+/deps
+/log
+/logs
+/rel/tor_http_tunnel
+*.beam
+*.plt
+erl_crash.dump
